@@ -10,18 +10,20 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 
 #### DATA SCIENCE BOOTCAMP
 #### [The Bridge | Digital Talent Accelerator](https://www.thebridge.tech/) (Septiembre 2022 - Febrero 2023)
-- Título obtenido
-- Logros y actividades extracurriculares
 
-#### [Nombre de la Universidad](enlace a la universidad) (Año de inicio - Año de finalización)
-- Título obtenido
-- Logros y actividades extracurriculares
+#### PISCINA 42 MÁLAGA BOOTCAMP
+#### [42 Málaga | Fundación Telefónica](https://www.42malaga.com/) (Agosto 2022- Septiembre 2022)
 
+#### GRADUADO EN PUBLICIDAD Y RR.PP
+#### [Universidad de Cádiz](https://www.42malaga.com/](https://campusvirtual.uca.es/) (Septiembre 2011 - Julio 2015)
+
+#### PISCINA 42 MÁLAGA BOOTCAMP
+#### [42 Málaga | Fundación Telefónica](https://www.42malaga.com/) (Agosto 2022- Septiembre 2022)
 
 ### 🚀 Habilidades
 
 - Lenguajes de programación: Python
-- Base de datos: SQL
+- Base de datos: SQL, API REST, SQLite
 - Librerías Análisis y tratamiento de datos: Pandas, Numpy, Scikit-learn
 - Machine Learning: Tensorflow, Keras, LightGBM / XGBoost
 - Visualización de datos: Plotly, Tableau, Matplotlib, Seaborn, Power Bi
