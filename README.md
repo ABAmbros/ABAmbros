@@ -1,4 +1,6 @@
-## Hola, mi nombre es Antonio Ambrosio. Aqui en este perfil en Github podreis ver algunos de mis proyectos pasados y los mas recientes. Tambien os muestro pequeños proyectos y ejercicios con los que me he formado, y así mostrar mis destrezas con diferentes herramientas para ciencia de datos y lenguajes de programación.  
+## Hola, me llamo Antonio Ambrosio. 
+
+Aqui en este perfil en Github podréis ver algunos de mis proyectos pasados y los más recientes. También os muestro pequeños proyectos y ejercicios con los que me he formado, y así mostrar mis destrezas con diferentes herramientas para ciencia de datos y lenguajes de programación. 
 
 ### 📝 Acerca de mí
 
@@ -6,11 +8,12 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 
 ### 🚀 Habilidades
 
-- Lenguajes de programación: Python, Java, C++, JavaScript
-- Tecnologías de big data: Hadoop, Spark, Hive
-- Base de datos: SQL, MongoDB
-- Análisis de datos: Pandas, Numpy, Scikit-learn, Tensorflow
-- Visualización de datos: Tableau, Matplotlib, Seaborn
+- Lenguajes de programación: Python
+- Base de datos: SQL
+- Librerías Análisis y tratamiento de datos: Pandas, Numpy, Scikit-learn
+- Machine Learning: Tensorflow, Keras, LightGBM / XGBoost
+- Visualización de datos: Plotly, Tableau, Matplotlib, Seaborn, Power Bi
+- Cloud: AWS, Microsoft Azure, Google Cloud 
 
 ### 👨‍💻 Proyectos destacados
 
@@ -20,7 +23,7 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 
 ### 📫 Contacto
 
-- [Correo electrónico](correo electrónico)
-- [LinkedIn](enlace a LinkedIn)
+- [Correo electrónico](a.ambrosioprats@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/antonio-ambrosio-data-engineer/)
 
-¡Gracias por visitar mi perfil! 🙂
+¡Gracias por dar una vuelta por aqui! 🙂
