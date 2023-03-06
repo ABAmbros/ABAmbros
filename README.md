@@ -35,7 +35,10 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 
 ### 👨‍💻 Proyectos destacados
 
-- [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
+#### JUEGO HUNDIR LA FLOTA
+- [Hudir la Flota](https://github.com/ABAmbros/DATA_PROYECTS/tree/main/PROYECTO%20Hundir_la_Flota): Juego desarrollado en lenguaje python, utilizando 5 scripts: bienvenida, constants, partida, tableros y main, los cuales contienen las funciones necesarias para su ejecución. Durante la partida, se reproducen varios sonidos para hacer el juego más interesante.
+
+
 - [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
 - [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
 
