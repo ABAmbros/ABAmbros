@@ -24,6 +24,7 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 #### [Escuela de Arte “Mateo Inurria”](http://www.escueladeartedecordoba.es/) (Septiembre 2009 - Junio 2011)
 
 
+---
 ### 🚀 Habilidades
 
 - Lenguajes de programación: Python
@@ -31,20 +32,22 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 - Librerías Análisis y tratamiento de datos: Pandas, Numpy, Scikit-learn
 - Machine Learning: Tensorflow, Keras, LightGBM / XGBoost
 - Visualización de datos: Plotly, Tableau, Matplotlib, Seaborn, Power Bi
-- Cloud: AWS, Microsoft Azure, Google Cloud 
+- Cloud: AWS 
 
 ### 👨‍💻 Proyectos destacados
 
-#### JUEGO HUNDIR LA FLOTA
+#### BATTLESHIP GAME
 - [Hudir la Flota](https://github.com/ABAmbros/DATA_PROYECTS/tree/main/PROYECTO%20Hundir_la_Flota): Juego desarrollado en lenguaje python, utilizando 5 scripts: bienvenida, constants, partida, tableros y main, los cuales contienen las funciones necesarias para su ejecución. Durante la partida, se reproducen varios sonidos para hacer el juego más interesante.
 
-
+---
+#### SPACESHIP TITANIC
+- [Spaceship Titanic_ML](https://github.com/ABAmbros/Proyecto_ML): Competición de Kaggle: El objetivo de este proyecto será predecir con diferentes modelos de machine learning un target ficticio con muchas variables, y un conjunto de registros personales recuperados de un sistema informático dañado, donde los datos están incompletos...dañados. 
 - [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
-- [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
 
-### 📫 Contacto
+### 📫 Contáctame
 
-- [Email](a.ambrosioprats@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/antonio-ambrosio-data-engineer/)
+📩 [Email](a.ambrosioprats@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/antonio-ambrosio-data-engineer/)
 
 ¡Gracias por dar una vuelta por aqui! 
