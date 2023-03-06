@@ -1,10 +1,10 @@
-# Hola, soy Antonio 👋
+## Hola, mi nombre es Antonio Ambrosio,
 
-## 📝 Acerca de mí
+# 📝 Acerca de mí
 
-Soy un desarrollador de software con experiencia en programación y ciencia de datos. Me apasiona trabajar en proyectos desafiantes que requieren habilidades tanto técnicas como analíticas.
+Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data Science . Me apasiona trabajar en proyectos desafiantes, diferentes y creativos. Al igual que me encanta estar en la trastienda encontrando, adquiriendo datos, y prepararlos para que puedan ser utilizados, integrados en bases de datos, etc. Todo lo que requiere habilidades tanto técnicas, como creativas.
 
-## 🚀 Habilidades
+# 🚀 Habilidades
 
 - Lenguajes de programación: Python, Java, C++, JavaScript
 - Tecnologías de big data: Hadoop, Spark, Hive
@@ -12,13 +12,13 @@ Soy un desarrollador de software con experiencia en programación y ciencia de d
 - Análisis de datos: Pandas, Numpy, Scikit-learn, Tensorflow
 - Visualización de datos: Tableau, Matplotlib, Seaborn
 
-## 👨‍💻 Proyectos destacados
+# 👨‍💻 Proyectos destacados
 
 - [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
 - [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
 - [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
 
-## 📫 Contacto
+# 📫 Contacto
 
 - [Correo electrónico](correo electrónico)
 - [LinkedIn](enlace a LinkedIn)
