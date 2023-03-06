@@ -8,7 +8,8 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 
 ### 📚 Educación
 
-#### [Nombre de la Universidad](enlace a la universidad) (Año de inicio - Año de finalización)
+#### DATA SCIENCE BOOTCAMP
+#### [The Bridge | Digital Talent Accelerator](https://www.thebridge.tech/) (Septiembre 2022 - Febrero 2023)
 - Título obtenido
 - Logros y actividades extracurriculares
 
