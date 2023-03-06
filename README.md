@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hola, soy Antonio 👋
 
-<!--
-**ABAmbros/ABAmbros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 Acerca de mí
 
-Here are some ideas to get you started:
+Soy un desarrollador de software con experiencia en programación y ciencia de datos. Me apasiona trabajar en proyectos desafiantes que requieren habilidades tanto técnicas como analíticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+- Lenguajes de programación: Python, Java, C++, JavaScript
+- Tecnologías de big data: Hadoop, Spark, Hive
+- Base de datos: SQL, MongoDB
+- Análisis de datos: Pandas, Numpy, Scikit-learn, Tensorflow
+- Visualización de datos: Tableau, Matplotlib, Seaborn
+
+## 👨‍💻 Proyectos destacados
+
+- [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
+- [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
+- [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
+
+## 📫 Contacto
+
+- [Correo electrónico](correo electrónico)
+- [LinkedIn](enlace a LinkedIn)
+
+¡Gracias por visitar mi perfil! 🙂
