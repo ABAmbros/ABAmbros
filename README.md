@@ -6,6 +6,17 @@ Aqui en este perfil en Github podréis ver algunos de mis proyectos pasados y lo
 
 Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data Science . Me apasiona trabajar en proyectos desafiantes, diferentes y creativos. Al igual que me encanta estar en la trastienda encontrando, adquiriendo datos, y prepararlos para que puedan ser utilizados, integrados en bases de datos, etc. Todo lo que requiere habilidades tanto técnicas, como creativas.
 
+### 📚 Educación
+
+#### [Nombre de la Universidad](enlace a la universidad) (Año de inicio - Año de finalización)
+- Título obtenido
+- Logros y actividades extracurriculares
+
+#### [Nombre de la Universidad](enlace a la universidad) (Año de inicio - Año de finalización)
+- Título obtenido
+- Logros y actividades extracurriculares
+
+
 ### 🚀 Habilidades
 
 - Lenguajes de programación: Python
@@ -23,7 +34,7 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 
 ### 📫 Contacto
 
-- [Correo electrónico](a.ambrosioprats@gmail.com)
+- [Email](a.ambrosioprats@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/antonio-ambrosio-data-engineer/)
 
-¡Gracias por dar una vuelta por aqui! 🙂
+¡Gracias por dar una vuelta por aqui! 
