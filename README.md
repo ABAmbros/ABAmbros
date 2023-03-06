@@ -43,7 +43,6 @@ Soy Junior Data Engineer/Scientist con experiencia en Publicidad y Comunicación
 
 #### SPACESHIP TITANIC
 - [Spaceship Titanic_ML](https://github.com/ABAmbros/Proyecto_ML): Competición de Kaggle: El objetivo de este proyecto será predecir con diferentes modelos de machine learning un target ficticio con muchas variables, y un conjunto de registros personales recuperados de un sistema informático dañado, donde los datos están incompletos...dañados. 
-- [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
 
 ---
 ### 📫 Contáctame
