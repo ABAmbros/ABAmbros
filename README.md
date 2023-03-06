@@ -4,7 +4,7 @@ Aqui en este perfil en Github podréis ver algunos de mis proyectos pasados y lo
 
 ### 📝 Acerca de mí
 
-Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data Science . Me apasiona trabajar en proyectos desafiantes, diferentes y creativos. Al igual que me encanta estar en la trastienda encontrando, adquiriendo datos, y prepararlos para que puedan ser utilizados, integrados en bases de datos, etc. Todo lo que requiere habilidades tanto técnicas, como creativas.
+Soy Junior Data Engineer/Scientist con experiencia en Publicidad y Comunicación, graduado en Data Science . Me apasiona trabajar en proyectos desafiantes, diferentes y creativos. Al igual que me encanta estar en la trastienda encontrando, adquiriendo datos, y prepararlos para que puedan ser utilizados, integrados en bases de datos, etc. Todo lo que requiere habilidades tanto técnicas, como creativas.
 
 ### 📚 Educación
 
@@ -34,20 +34,20 @@ Soy Data Engineer/Scientist con experiencia en lenguaje Python graduado en Data 
 - Visualización de datos: Plotly, Tableau, Matplotlib, Seaborn, Power Bi
 - Cloud: AWS 
 
+---
 ### 👨‍💻 Proyectos destacados
 
 #### BATTLESHIP GAME
 - [Hudir la Flota](https://github.com/ABAmbros/DATA_PROYECTS/tree/main/PROYECTO%20Hundir_la_Flota): Juego desarrollado en lenguaje python, utilizando 5 scripts: bienvenida, constants, partida, tableros y main, los cuales contienen las funciones necesarias para su ejecución. Durante la partida, se reproducen varios sonidos para hacer el juego más interesante.
 
----
+
 #### SPACESHIP TITANIC
 - [Spaceship Titanic_ML](https://github.com/ABAmbros/Proyecto_ML): Competición de Kaggle: El objetivo de este proyecto será predecir con diferentes modelos de machine learning un target ficticio con muchas variables, y un conjunto de registros personales recuperados de un sistema informático dañado, donde los datos están incompletos...dañados. 
 - [Nombre del proyecto](enlace al proyecto): descripción breve del proyecto y los resultados obtenidos.
 
+---
 ### 📫 Contáctame
 
 📩 [Email](a.ambrosioprats@gmail.com)
 
 💼 [LinkedIn](https://www.linkedin.com/in/antonio-ambrosio-data-engineer/)
-
-¡Gracias por dar una vuelta por aqui! 
