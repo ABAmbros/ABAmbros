@@ -1,10 +1,10 @@
 ## Hola, me llamo Antonio Ambrosio. 
 
-Aqui en este perfil en Github podréis ver algunos de mis proyectos pasados y los más recientes. También os muestro pequeños proyectos y ejercicios con los que me he formado, y así mostrar mis destrezas con diferentes herramientas para ciencia de datos y lenguajes de programación. 
+Aqui en Github podréis ver algunos de mis proyectos pasados y los más recientes. También os muestro pequeños proyectos y ejercicios con los que me he formado, y así mostrar mis destrezas con diferentes herramientas para ciencia de datos y lenguajes de programación. 
 
 ### 📝 Acerca de mí
 
-Soy Junior Data Engineer/Scientist con experiencia en Publicidad y Comunicación, graduado en Data Science . Me apasiona trabajar en proyectos desafiantes, diferentes y creativos. Al igual que me encanta estar en la trastienda encontrando, adquiriendo datos, y prepararlos para que puedan ser utilizados, integrados en bases de datos, etc. Todo lo que requiere habilidades tanto técnicas, como creativas.
+Soy Junior Data Engineer/Scientist con experiencia en Publicidad y Comunicación, graduado en Data Science . Me apasiona trabajar en proyectos desafiantes, diferentes y creativos. Al igual que me encanta estar en la "trastienda" encontrando, adquiriendo datos, y prepararlos para que puedan ser utilizados, integrados en bases de datos, etc. Todo lo que requiere habilidades tanto técnicas, como creativas.
 
 ### 📚 Educación
 
