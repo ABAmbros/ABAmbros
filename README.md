@@ -42,7 +42,10 @@ Soy Junior Data Engineer/Scientist con experiencia en Publicidad y Comunicación
 
 
 #### SPACESHIP TITANIC
-- [Spaceship Titanic_ML](https://github.com/ABAmbros/Proyecto_ML): Competición de Kaggle: El objetivo de este proyecto será predecir con diferentes modelos de machine learning un target ficticio con muchas variables, y un conjunto de registros personales recuperados de un sistema informático dañado, donde los datos están incompletos...dañados. 
+- [Spaceship Titanic_ML](https://github.com/ABAmbros/Proyecto_ML): Competición de Kaggle: El objetivo de este proyecto será predecir con diferentes modelos de machine learning un target ficticio con muchas variables, y un conjunto de registros personales recuperados de un sistema informático dañado, donde los datos están incompletos...dañados.
+
+#### SHARK ATTACKS USA
+- [Shark Attacks_EDA](https://github.com/ABAmbros/Shark_Attacks_EDA): Análisis Exploratorio de Datos(EDA). El objetivo de este estudio es averiguar las causas que hacen que los hombres hayan sido mucho mas atacados por tiburones que las mujeres. Nuestro análisis explortorio se centra en el país con más casos registrados en el planeta desde que se tiene constancia y registros sobre ellos, Estados Unidos.
 
 ---
 ### 📫 Contáctame
