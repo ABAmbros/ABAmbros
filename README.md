@@ -1,6 +1,6 @@
 ## Hola, me llamo Antonio Ambrosio. 
 
-Aqui en Github podréis ver algunos de mis proyectos pasados y los más recientes. También os muestro pequeños proyectos y ejercicios con los que me he formado, y así mostrar mis destrezas con diferentes herramientas para ciencia de datos y lenguajes de programación. 
+Aqui en Github podréis ver algunos de mis proyectos pasados y los más recientes. También os muestro pequeños proyectos y ejercicios con los que me he formado, y así poder mostraros también mis destrezas con diferentes herramientas para ciencia de datos y lenguajes de programación. 
 
 ### 📝 Acerca de mí
 
